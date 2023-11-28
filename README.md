@@ -3,7 +3,7 @@
 ## Hey there, nice to meet you! Thanks for dropping by and checking out my portfolio. Let me introduce myself!  
 - As a final-year Neuroscience Honors student at Boston University, I've specialized in data science and research methodologies. Throughout my academic journey, I've delved deeply into the dynamic realm of data analysis, software methodologies, and impactful research techniques. My passion lies in harnessing a diverse toolkit of data-driven approaches to unveil profound insights, steering strategic decision-making. Outside of this exciting world, you'll find me travelling and exploring new countries, scrolling through TikTok for the latest trends and memes, and discovering cozy coffee shops around Boston. With a robust background in research and a keen eye for deciphering complex data, I'm eager to channel these skills and enthusiasm into roles centered on Data Analytics, Consulting, & Product Management.
 
-#### Technical Skills: Python, MATLAB, R, PostgreSQL, Tableau, PowerBI, Salesforce, ImageJ, Snapgene, Jira
+#### Technical Skills: Python, MATLAB, R, PostgreSQL, Tableau, PowerBI, Salesforce, ImageJ, Snapgene, HTML, CSS, Jira
 
 ## Professional Experiences 
 **Associate Product Manager Co-op, Healthcare Data Analytics Team@ JVR Systems (_August 2023 - Present_)**
@@ -37,9 +37,11 @@ This project stands as an invaluable asset for healthcare institutions, utilizin
 
 This dashboard monitors the progress of global COVID-19 vaccination campaigns while delving into the correlation between countries' Gross Domestic Product (GDP) and vaccination penetration rates. Additionally, this tool provides a dynamic visualization of vaccination efforts worldwide which offers stakeholders a nuanced understanding of how economic factors might influence vaccination uptake and analyzes the intersection of public health strategies, demographics, and economic indicators amidst the pandemic.
 
-#![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+<!-- This content will not appear in the rendered Markdown -->
 
-#![Bike Study](/assets/img/bike_study.jpeg)
+<!-- ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg) -->
+
+<!-- ![Bike Study](/assets/img/bike_study.jpeg)  -->
 
 ### Spatial Co-Occurrence of Firearm Violence, Opioid Overdoses, and COVID-19 Deaths: A Case Study of Chicago, Illinois
 
