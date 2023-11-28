@@ -1,5 +1,5 @@
 # Data Science & Research Portfolio
-[LinkedIn Portfolio](https://www.linkedin.com/in/jaii-pappu/)
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/jaii-pappu/)
 
 ## Hey there, nice to meet you! Thanks for dropping by and checking out my portfolio. 
 ## Let me introduce myself!  
