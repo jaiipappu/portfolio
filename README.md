@@ -32,7 +32,8 @@ By leveraging **Tableau** for visualization, the dashboard presents crucial metr
 
 This project stands as an invaluable asset for healthcare institutions, utilizing SQL and Tableau to drive informed decision-making. It facilitates improved ER workflows, enables prompt addressing of patient needs, and ultimately enhances the quality of emergency medical services.
 
-### [COVID-19 Global Vaccination Tracker] (https://public.tableau.com/views/COVID-19GlobalVaccinationTracker_17004592774720/COVIDVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link)
+### COVID-19 Global Vaccination Tracker 
+[Dashboard] (https://public.tableau.com/views/COVID-19GlobalVaccinationTracker_17004592774720/COVIDVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 This dashboard monitors the progress of global COVID-19 vaccination campaigns while delving into the correlation between countries' Gross Domestic Product (GDP) and vaccination penetration rates. Additionally, this tool provides a dynamic visualization of vaccination efforts worldwide which offers stakeholders a nuanced understanding of how economic factors might influence vaccination uptake and analyzes the intersection of public health strategies, demographics, and economic indicators amidst the pandemic.
 
