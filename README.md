@@ -8,22 +8,22 @@
 ## Professional Experiences 
 **Associate Product Manager Co-op, Healthcare Data Analytics Team@ JVR Systems (_August 2023 - Present_)**
 
-***Unveiling Insights in Healthcare Data***
+***Unveiling Insights in Healthcare Data:***
 - As an Associate Product Manager, my role involves delving into healthcare data analytics. Through intensive market research, I contributed pivotal insights shaping a user-centric telemedicine platform. Collaborating closely with my team, we've sculpted functionalities aimed at addressing critical needs within the healthcare landscape. Leveraging data-driven solutions, I've been instrumental in driving advancements that promise impactful changes in healthcare technology.
 
 **Spatial Morbidity Co-occurrence Project Lead@ Boston University School of Public Health (_December 2021 - Present_)**
 
-***Data-Driven Insights for Societal Challenges***
+***Data-Driven Insights for Societal Challenges:***
 - My contributions at the Research on Innovations for Safety & Equity Lab, within BU School of Public Health, have played a pivotal role in addressing societal challenges. Spearheading a $5,415 research grant project investigating the spatial co-occurrence of firearm violence, opioid overdoses, and COVID-19 deaths in Chicago, I utilized R to analyze intricate datasets. The results revealed a stark imbalance in fatalities, disproportionately impacting marginalized communities. These findings advocate strongly for data-driven solutions to tackle societal issues head-on.
 
 **Biosafety Level-2 Virology Researcher@ National Emerging Infectious Diseases Laboratory (_December 2022 - Present_)**
 
-***Exploring Virology & Cutting-Edge Biotechnology***
+***Exploring Virology & Cutting-Edge Biotechnology:***
 - Within the National Emerging Infectious Diseases Laboratory at BU School of Medicine, I've been on an exciting exploration into the world of viruses. Awarded $6,000 in a BU Research Grant, I successfully engineered an infectious recombinant West Nile Virus expressing Green Fluorescent Protein, enabling enhanced visualization of infection processes in mammalian and mosquito cells. This study is just the beginning of my quest as I write my bachelors honors thesis and uncover more about how West Nile Virus and other neurotropic viruses spread and its effects on the brain using innovative techniques in a lab setting.
 
 **Clinical Research Assistant/Data Analyst@ BU Sargent College of Health and Rehabilitation (_March 2022 - January 2023_)**
 
-***Clinical Research and Data Analytics in Sensorimotor Rehabilitation Engineering***
+***Clinical Research and Data Analytics in Sensorimotor Rehabilitation Engineering:***
 - As an NREMT-Certified Clinical Research Assistant and Data Analyst at the STEPP Lab for Sensorimotor Rehabilitation Engineering, I've been deeply involved in investigating how vocal hyperfunction and testosterone influence speech patterns in transgender patients. My responsibilities encompassed conducting extensive research, where I meticulously analyzed over 1000 vocal recordings using Praat software and delved into comprehensive data analysis with MATLAB. Moreover, my role extended beyond research. I served as an on-call NREMT during clinical patient trials, ensuring the safety and well-being of participants throughout our research experiments. This dedication resulted in a flawless safety record, prioritizing the utmost care and security of those involved in our studies.
 
 ## Projects
@@ -39,7 +39,7 @@ This project stands as an invaluable asset for healthcare institutions, utilizin
 ### COVID-19 Global Vaccination Tracker 
 [Dashboard](https://public.tableau.com/views/COVID-19GlobalVaccinationTracker_17004592774720/COVIDVaccineTracker?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-This dashboard monitors the progress of global COVID-19 vaccination campaigns while delving into the correlation between countries' Gross Domestic Product (GDP) and vaccination penetration rates. Additionally, this tool provides a dynamic visualization of vaccination efforts worldwide which offers stakeholders a nuanced understanding of how economic factors might influence vaccination uptake and analyzes the intersection of public health strategies, demographics, and economic indicators amidst the pandemic.
+This dashboard monitors the progress of global COVID-19 vaccination campaigns while delving into the correlation between countries' Gross Domestic Product (GDP) and vaccination penetration rates. Additionally, this tool provides a dynamic visualization via **Tableau** of vaccination efforts worldwide which offers stakeholders a nuanced understanding of how economic factors might influence vaccination uptake and analyzes the intersection of public health strategies, demographics, and economic indicators amidst the pandemic.
 
 <!-- This content will not appear in the rendered Markdown -->
 
