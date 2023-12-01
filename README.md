@@ -56,7 +56,7 @@ Leveraging **R** for exploratory spatial analysis, this study uncovered compelli
 ## Education 
 - B.A. Candidate, Neuroscience Honors, Minor in Business Administration & Management | Boston University (_May 2024_)
 
-## Relevant Coursework:## 
+## Relevant Coursework: 
 
 CS 570 Biomedical Sciences and Healthcare Information Technology, NE 212 MATLAB Programming for Neuroscience, NE 204 Computational Models of Brain/Behavior, CS 105 Intro to Databases and Data Mining, Calculus II, General Chemistry II, Organic Chemistry II   
 
